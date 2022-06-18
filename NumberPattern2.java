@@ -1,0 +1,24 @@
+package Harish123;
+/**
+ * Number Pattern Two
+ * @author hm22101
+ *
+ */
+
+public class NumberPattern2 {
+
+	public static void main(String[] args) {
+		
+		for(int i=1;i<=5;i++)
+		{
+			for(int j=1;j<=5;j++) {
+				System.out.print(j+" ");
+				
+			}
+			System.out.println(" ");
+		}
+		
+
+	}
+
+}
